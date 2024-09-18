@@ -1,7 +1,6 @@
-# deno-oak-routing-ctrl-hello-world
+# deno-oak-routing-ctrl-oas
 
-minimal starter template for REST API service based on Deno + Oak +
-oak-routing-ctrl
+starter template for web service based on Deno + Oak + oak-routing-ctrl, with Open API Spec validation
 
 ## Runtime Notes
 
@@ -12,7 +11,7 @@ It is possible to convert into other runtimes (e.g. Node.js, Bun, or Cloudflare
 Workers). For further details here please consule
 [oak-routing-ctrl documentation](https://github.com/Thesephi/oak-routing-ctrl?tab=readme-ov-file#other-runtimes).
 
-If you're on replit, everything is already set up for you.
+If you're on [Google IDX](https://idx.dev/), everything is already set up for you (just clone this repo as-is).
 
 ## Quick start
 
