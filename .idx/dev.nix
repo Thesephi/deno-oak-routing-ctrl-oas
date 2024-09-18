@@ -18,6 +18,7 @@
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
+      "denoland.vscode-deno"
       # "vscodevim.vim"
     ];
     # Enable previews
